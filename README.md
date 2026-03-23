@@ -24,6 +24,3 @@
 ###### 1. Install required libraries
 ###### 2. Open and run `Main.ipynb`
 
-## Author
-
-Sajini Udawela
